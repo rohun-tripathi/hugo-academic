@@ -32,6 +32,7 @@ weight = 1
 
 I am research scientist at Amazon. I work on the secret sauce that drives the Go store.
 
-I graduated from Cornell Tech in June 2018 and from the Indian Institute of Technology Kanpur in June 2015. I majored in computer science. My interests are computer vision, machine learning and health tech.
+My interests are computer vision, machine learning and health tech.
+I received my Master's from Cornell Tech in June 2018 and my Bachelor's from the Indian Institute of Technology Kanpur in June 2015. My major was computer science.
 
-I am outdoor person. I am a marathon runner and play basketball & soccer. I played basketball as a member of my undergraduate team. 
+I am an outdoorsy person. I ran in the Delhi half marathon and represented my undergraduate school's basketball team.
