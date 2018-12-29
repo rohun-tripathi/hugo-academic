@@ -28,7 +28,7 @@ weight = 1
  
 +++
 
-# Hey
+# Bio
 
 I am research scientist at Amazon. I work on the secret sauce that drives the Go store.
 
