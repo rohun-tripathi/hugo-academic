@@ -5,36 +5,33 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+#[interests]
+#  interests = [
+#   "Computer Vision",
+#    "Machine Learning",
+#    "Health Tech"
+#  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MEng in Computer Science"
+  institution = "Cornell Tech, Cornell University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BTech in Computer Science"
+  institution = "Indian Institute of Technology, Kanpur"
+  year = 2015
  
 +++
 
-# Biography
+# Hey
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am research scientist at Amazon. I work on the secret sauce that drives the Go store.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I graduated from Cornell Tech in June 2018 and from the Indian Institute of Technology Kanpur in June 2015. I majored in computer science. My interests are computer vision, machine learning and health tech.
+
+I am outdoor person. I am a marathon runner and play basketball & soccer. I played basketball as a member of my undergraduate team. 
